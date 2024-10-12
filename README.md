@@ -27,6 +27,9 @@ Implemented Data Augmentation to make the dataset bigger
 
 # Confusion Matrix
 
+![ConfusionMatrix](https://github.com/user-attachments/assets/d781b809-b24e-486e-a6cf-aab2bdefae76)
+
+
 # Results on a the test dataset
 
 
